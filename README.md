@@ -58,7 +58,6 @@ G40,high,yes,excellent,yes
 
 ### OUTPUT:
 ![Screenshot 2024-08-12 185934](https://github.com/user-attachments/assets/7570841e-cff6-4a25-aecb-6ad5abd66998)
-![image](https://github.com/user-attachments/assets/ed513384-cecf-47da-908e-19ffb469a57d)
 ![Screenshot 2024-08-12 185951](https://github.com/user-attachments/assets/a93d2f6b-b3f4-4267-bb87-db6419de96e7)
 
 
