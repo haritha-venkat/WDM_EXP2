@@ -1,8 +1,8 @@
 ### EX2 Generating Association Rules for Employee dataset using Apriori Algorithm
 ### DATE: 27.02.2025
 ```
-Name: THIRISHA .S
-Reg No: 212222230160
+Name: HARITHA SHREE 
+Reg No: 212222230046
 ```
 ### AIM: To generate associate rules for the employee dataset using Apriori Algorithm.
 ### Description:
